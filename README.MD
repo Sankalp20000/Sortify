@@ -20,7 +20,7 @@ Sortify is a web-based sorting visualizer that showcases various sorting algorit
 
 ## Demo
 
-You can try out Sortify by visiting the live demo [here](sankalprana-sortify.onrender.com).
+You can try out Sortify by visiting the live demo [here](https://sankalprana-sortify.onrender.com).
 
 ## Supported Sorting Algorithms
 
