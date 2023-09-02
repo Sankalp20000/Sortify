@@ -153,6 +153,7 @@ body.active {
   max-height: 731px;
 }
 .array {
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.294);
   display: flex;
   align-items: flex-start;
