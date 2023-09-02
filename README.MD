@@ -35,8 +35,8 @@ Sortify currently supports the following sorting algorithms:
 
 ## Screenshot
 
-![Project Screenshot](/Images/img1.png)
-![Project Screenshot](/Images/img2.png)
+![Project Screenshot](/Images/sc1.png)
+![Project Screenshot](/Images/sc2.png)
 
 ## Contributing
 
